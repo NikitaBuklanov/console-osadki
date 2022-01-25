@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace main_project
 {
-    class Process
+    public class Process
     {
         public double ObKol(int mounth, double[,] arr)
         {
             int n = arr.GetLength(0);
+
             double sum = 0;
+
             for (int i = 0; i < n; i++)
             {
                 if (arr[i, 0] == mounth)
