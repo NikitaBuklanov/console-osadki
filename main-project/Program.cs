@@ -10,9 +10,10 @@ namespace main_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Laboratory work #1. GIT\n");
-            Console.WriteLine("Variant #3. Osadki\n");
-            Console.WriteLine("Author: Nikita Buklanov\n");
+            Console.WriteLine("Laboratory work #1. GIT");
+            Console.WriteLine("Variant #3. Osadki");
+            Console.WriteLine("Author: Nikita Buklanov");
+            Console.WriteLine("Group: 14z");
             Console.ReadKey();
         }
     }
