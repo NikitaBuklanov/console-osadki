@@ -13,6 +13,7 @@ namespace main_project
             Console.WriteLine("Laboratory work #1. GIT");
             Console.WriteLine("Variant #3. Osadki");
             Console.WriteLine("Author: Nikita Buklanov");
+            Console.WriteLine("Group: 14z");
             Console.WriteLine("");
 
             string filename = "data.txt";
